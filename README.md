@@ -67,4 +67,10 @@ npm run dev
 
 4. Finalmente, observa la salida en consola, presiona sobre el enlace mostrado (normalmente será **`http://localhost:5173/`**) o ábrelo manual en la barra de URL del navegador Chrome/Edge.
 
+---
+
+## 📜 Licencia
+
+Este proyecto está bajo la Licencia **MIT**. Consulta el archivo [LICENSE](./LICENSE) para más detalles. ¡Siéntete libre de usarlo, mejorarlo y compartirlo con toda la comunidad!
+
 ¡La caja de herramientas está servida. El código está protegido de la red abierta!
